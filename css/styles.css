@@ -1,0 +1,46 @@
+  *{
+    box-sizing: border-box;
+}
+
+.body{
+    margin:1rem;
+    padding: 1em;
+}
+
+.caja {
+    background-color: rgb(0, 0, 0);
+}
+.cajaBase{
+    background-color: rgb(0, 126, 236);
+}
+
+.caja2 {
+    background-color: rgb(37, 197, 99);
+    height:1500px;
+
+}
+.cajaDentro1 {
+    background-color: rgb(252, 3, 3);
+    height: 300px;
+}
+.cajaDentro2 {
+    background-color: rgb(2, 209, 164);
+    height: 300px;
+}
+.cajaDentro5 {
+    background-color: rgb(15, 30, 58);
+    height: 300px;
+}
+.cajaDentro6 {
+    background-color: rgb(0, 73, 68);
+    height: 300px;
+}
+.cajaDentro7 {
+    background-color: rgb(131, 31, 178);
+    height: 300px;
+}
+
+.cajaDentro8 {
+    background-color: rgb(23, 18, 172);
+    height: 300px;
+}
